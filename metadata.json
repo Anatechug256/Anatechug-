@@ -1,0 +1,6 @@
+{
+  "name": "HourShare - Local Skill-Swap Marketplace",
+  "description": "Trade an hour of your skill for someone else's. No money involved, equal value time credits, building stronger local communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
